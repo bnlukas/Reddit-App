@@ -1,0 +1,12 @@
+C:\projekt\kreddit\shared\bin\Debug\net9.0\shared.deps.json
+C:\projekt\kreddit\shared\bin\Debug\net9.0\shared.dll
+C:\projekt\kreddit\shared\bin\Debug\net9.0\shared.pdb
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.AssemblyInfoInputs.cache
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.AssemblyInfo.cs
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.csproj.CoreCompileInputs.cache
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.sourcelink.json
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.dll
+C:\projekt\kreddit\shared\obj\Debug\net9.0\refint\shared.dll
+C:\projekt\kreddit\shared\obj\Debug\net9.0\shared.pdb
+C:\projekt\kreddit\shared\obj\Debug\net9.0\ref\shared.dll
